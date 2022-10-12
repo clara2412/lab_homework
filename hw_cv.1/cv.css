@@ -1,0 +1,17 @@
+.header {
+    justify-content: space-betweens;
+    color: #20928f;
+    text-align: center;
+    font-size: 40px;
+}
+.content-header{
+  color: #20928f;
+  font-size: 40px;
+  flex: 0 10px;
+}
+ .content-wrap{
+  display:flex;
+  gap: 20px;
+  align-items: center;
+ }
+ 
